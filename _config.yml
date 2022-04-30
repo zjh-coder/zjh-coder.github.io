@@ -21,9 +21,7 @@
 title: Phil Zhang's blog
 email: zhangjh_coder@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Phil Zhang's personal blog, for recording some code knowledge and exprience
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zjh-coder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: zjh-coder.github.io
